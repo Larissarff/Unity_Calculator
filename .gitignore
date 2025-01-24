@@ -1,0 +1,16 @@
+git ignore/ 
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Aa]ssets/AssetStoreTools*
+
+# Build
+[Ll]ogs/
+Build/
+
+# Arquivos de configuração local
+userprefs/

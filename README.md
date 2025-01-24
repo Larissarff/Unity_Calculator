@@ -1,3 +1,1 @@
 #Unity Calculator 
-
-# By Yuri
